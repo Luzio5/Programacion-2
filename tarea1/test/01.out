@@ -1,0 +1,126 @@
+1>#  Prueba pila.
+2>La pila está vacia. 
+3>La pila no está llena. 
+4>La pila está vacia. La operación no tuvo efecto. 
+5>La pila está vacia. La operación no tuvo efecto. 
+6>Se apiló q. 
+7>La pila no está vacia. 
+8>La pila no está llena. 
+9>El tope es q. 
+10>Se desapiló. 
+11>La pila está vacia. 
+12>La pila no está llena. 
+13>Se apiló q. 
+14>Se apiló w. 
+15>Se apiló e. 
+16>Se apiló r. 
+17>Se apiló t. 
+18>Se apiló y. 
+19>Se apiló u. 
+20>Se apiló i. 
+21>Se apiló o. 
+22>Se apiló p. 
+23>Se apiló a. 
+24>Se apiló s. 
+25>Se apiló d. 
+26>Se apiló f. 
+27>Se apiló g. 
+28>Se apiló h. 
+29>Se apiló j. 
+30>Se apiló k. 
+31>Se apiló l. 
+32>Se apiló z. 
+33>Se apiló x. 
+34>Se apiló c. 
+35>Se apiló v. 
+36>Se apiló b. 
+37>Se apiló n. 
+38>Se apiló m. 
+39>Se apiló 0. 
+40>Se apiló 1. 
+41>Se apiló 2. 
+42>Se apiló 3. 
+43>Se apiló 4. 
+44>Se apiló 5. 
+45>Se apiló 6. 
+46>Se apiló 7. 
+47>Se apiló 8. 
+48>Se apiló 9. 
+49>Se apiló (. 
+50>Se apiló ). 
+51>Se apiló [. 
+52>Se apiló ]. 
+53>Se apiló {. 
+54>Se apiló }. 
+55>Se apiló <. 
+56>Se apiló >. 
+57>Se apiló +. 
+58>Se apiló -. 
+59>Se apiló 9. 
+60>Se apiló 8. 
+61>Se apiló 7. 
+62>La pila no está llena. 
+63>Se apiló 6. 
+64>La pila está llena. 
+65>La pila está llena. La operación no tuvo efecto. 
+66>El tope es 6. 
+67>El tope es 6. 
+68>La pila está llena. 
+69>Se desapiló. 
+70>La pila no está llena. 
+71>El tope es 7. 
+72>Se desapiló. 
+73>Se desapiló. 
+74>Se desapiló. 
+75>El tope es -. 
+76>Se desapiló. 
+77>Se desapiló. 
+78>Se desapiló. 
+79>Se desapiló. 
+80>Se desapiló. 
+81>Se desapiló. 
+82>Se desapiló. 
+83>Se desapiló. 
+84>Se desapiló. 
+85>Se desapiló. 
+86>Se desapiló. 
+87>Se desapiló. 
+88>Se desapiló. 
+89>Se desapiló. 
+90>Se desapiló. 
+91>Se desapiló. 
+92>Se desapiló. 
+93>Se desapiló. 
+94>Se desapiló. 
+95>Se desapiló. 
+96>Se desapiló. 
+97>Se desapiló. 
+98>Se desapiló. 
+99>Se desapiló. 
+100>Se desapiló. 
+101>Se desapiló. 
+102>Se desapiló. 
+103>Se desapiló. 
+104>Se desapiló. 
+105>Se desapiló. 
+106>Se desapiló. 
+107>Se desapiló. 
+108>Se desapiló. 
+109>Se desapiló. 
+110>Se desapiló. 
+111>Se desapiló. 
+112>Se desapiló. 
+113>Se desapiló. 
+114>Se desapiló. 
+115>Se desapiló. 
+116>Se desapiló. 
+117>Se desapiló. 
+118>Se desapiló. 
+119>Se desapiló. 
+120>Se desapiló. 
+121>La pila no está vacia. 
+122>El tope es q. 
+123>Se desapiló. 
+124>La pila está vacia. 
+125>La pila está vacia. La operación no tuvo efecto. 
+126>Fin.

@@ -1,0 +1,10 @@
+# prueba de es_vacia_cadena, insertar_al_final, imprimir_cadena
+es_vacia_cadena
+imprimir_cadena
+insertar_al_final (1,a)
+es_vacia_cadena
+imprimir_cadena
+insertar_al_final (3,c)
+insertar_al_final (2,b)
+imprimir_cadena
+Fin

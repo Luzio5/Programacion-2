@@ -1,0 +1,50 @@
+1>#  prueba de insertar_antes, inicio_cadena, final_cadena, kesimo, siguiente, anterior, es_localizador, es_inicio_cadena, es_final_cadena.
+2>loc no válido.
+3>Cadena vacía.
+4>Cadena vacía.
+5>loc no es incio de cad.
+6>loc no es final de cad.
+7>Insertado al final.
+8>loc no es incio de cad.
+9>loc no es final de cad.
+10>loc al inicio.
+11>loc válido.
+12>loc es incio de cad.
+13>loc es final de cad.
+14>Insertado antes de loc.
+15>loc válido.
+16>loc no es incio de cad.
+17>loc es final de cad.
+18>(2,b)(1,a)
+19>loc al final.
+20>loc válido.
+21>loc no es incio de cad.
+22>loc es final de cad.
+23>Insertado antes de loc.
+24>(2,b)(3,c)(1,a)
+25>loc al anterior.
+26>loc válido.
+27>Insertado antes de loc.
+28>(2,b)(4,d)(3,c)(1,a)
+29>loc al inicio.
+30>loc es incio de cad.
+31>loc no es final de cad.
+32>loc al siguiente.
+33>loc válido.
+34>Insertado antes de loc.
+35>(2,b)(5,e)(4,d)(3,c)(1,a)
+36>loc en la posición 3.
+37>loc válido.
+38>loc no es incio de cad.
+39>loc no es final de cad.
+40>Insertado antes de loc.
+41>(2,b)(5,e)(6,f)(4,d)(3,c)(1,a)
+42>loc al final.
+43>loc al siguiente.
+44>loc no válido.
+45>Localizador no válido.
+46>loc al inicio.
+47>loc al anterior.
+48>loc no válido.
+49>Localizador no válido.
+50>Fin.

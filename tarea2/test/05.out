@@ -1,0 +1,33 @@
+1>#  prueba de pertenece, longitud, cambiar_todos, concatenar.
+2>1 no pertenece a cad.
+3>Longitud: 0
+4>Cambiados.
+5>
+6>(9,i)
+7>Insertado al final.
+8>(5,e)
+9>(5,e)(9,i)
+10>Cambiados.
+11>(6,e)
+12>Cambiados.
+13>Longitud: 1
+14>1 no pertenece a cad.
+15>5 pertenece a cad.
+16>loc al final.
+17>Segmento insertado después de loc.
+18>(5,e)(2,a)(5,b)(1,c)(4,d)
+19>(5,e)(2,a)(5,b)(1,c)(4,d)(9,i)
+20>(5,e)(2,a)(5,b)(1,c)(4,d)(9,i)(8,h)(7,g)(6,f)
+21>Longitud: 5
+22>Cambiados.
+23>5 pertenece a cad.
+24>1 pertenece a cad.
+25>2 pertenece a cad.
+26>4 pertenece a cad.
+27>3 no pertenece a cad.
+28>6 no pertenece a cad.
+29>Cambiados.
+30>5 no pertenece a cad.
+31>6 pertenece a cad.
+32>(6,e)(2,a)(6,b)(1,c)(4,d)
+33>Fin.

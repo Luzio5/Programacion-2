@@ -1,0 +1,67 @@
+# prueba de insertar_segmento_despues, copiar_segmento, cortar_segmento, precede_en_cadena, menor_en_cadena, siguiente_clave
+precede_en_cadena 1
+insertar_segmento_despues .
+es_vacia_cadena
+imprimir_cadena
+precede_en_cadena 1
+copiar_segmento 1 1
+cortar_segmento 1 1
+insertar_segmento_despues (1,a) .
+es_vacia_cadena
+imprimir_cadena
+copiar_segmento 1 1
+cortar_segmento 1 1
+insertar_segmento_despues (2,b) (3,c) (4,d) (5,e) .
+imprimir_cadena
+inicio_cadena
+precede_en_cadena 1
+precede_en_cadena 2
+siguiente
+insertar_segmento_despues .
+imprimir_cadena
+insertar_segmento_despues (6,f) .
+imprimir_cadena
+final_cadena
+precede_en_cadena 1
+precede_en_cadena 5
+insertar_segmento_despues (7,g) (8,h) .
+imprimir_cadena
+insertar_segmento_despues (9,i) (10,j) .
+precede_en_cadena 4
+precede_en_cadena 5
+precede_en_cadena 6
+imprimir_cadena
+copiar_segmento 1 1
+copiar_segmento 5 5
+copiar_segmento 9 9
+copiar_segmento 1 9
+copiar_segmento 2 8
+cortar_segmento 9 9
+cortar_segmento 1 1
+cortar_segmento 4 4
+cortar_segmento 4 6
+cortar_segmento 1 2
+cortar_segmento 1 1
+es_vacia_cadena
+insertar_segmento_despues (2,b) (3,c) (4,d) (1,a) .
+inicio_cadena
+info_cadena
+menor_en_cadena
+info_cadena
+insertar_segmento_despues (5,e) (6,f) (7,g) (0,0) (8,h) .
+menor_en_cadena
+info_cadena
+siguiente_clave 1
+es_localizador
+final_cadena
+menor_en_cadena
+info_cadena
+siguiente_clave 8
+es_localizador
+info_cadena
+kesimo 2
+siguiente_clave 3
+info_cadena
+siguiente_clave 7
+info_cadena
+Fin

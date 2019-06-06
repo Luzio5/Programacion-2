@@ -1,0 +1,30 @@
+# prueba de pertenece, longitud, cambiar_todos, concatenar
+pertenece 1
+longitud
+cambiar_todos 5 6
+concatenar .
+concatenar (9,i) .
+insertar_al_final (5,e)
+concatenar .
+concatenar (9,i) .
+cambiar_todos 5 6
+imprimir_cadena
+cambiar_todos 6 5
+longitud
+pertenece 1
+pertenece 5
+final_cadena
+insertar_segmento_despues (2,a) (5,b) (1,c) (4,d) .
+concatenar .
+concatenar (9,i) .
+concatenar (9,i) (8,h) (7,g) (6,f) .
+longitud
+cambiar_todos 6 3
+pertenece 5
+pertenece 1
+pertenece 2
+pertenece 4
+pertenece 3
+pertenece 6
+cambiar_todos 5 6
+Fin

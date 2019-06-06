@@ -1,0 +1,73 @@
+1>#  prueba de es_vacio_binario, insertar_en_binario, cantidad_binario, raiz, izquierdo, derecho, altura_binario, imprimir_binario, buscar_subarbol.
+2>Vacio.
+3>0.
+4>0.
+5>b es vacío.
+6>b es vacío.
+7>b es vacío.
+8>
+9>sub es vacío.
+10>Insertado.
+11>No vacío.
+12>1.
+13>1.
+14>(10,l)
+15>
+16>
+17>
+(10,l)
+18>sub es vacío.
+19>(10,l)
+20>Insertado.
+21>Insertado.
+22>No vacío.
+23>3.
+24>2.
+25>(10,l)
+26>
+(8,g)
+27>
+(13,o)
+28>
+-(13,o)
+(10,l)
+-(8,g)
+29>(8,g)
+30>(13,o)
+31>Insertado.
+32>4.
+33>3.
+34>Insertado.
+35>Insertado.
+36>Insertado.
+37>7.
+38>4.
+39>Insertado.
+40>Insertado.
+41>No vacío.
+42>9.
+43>4.
+44>(10,l)
+45>
+-(9,h)
+(8,g)
+--(7,f)
+-(6,e)
+--(4,b)
+46>
+-(15,q)
+(13,o)
+-(12,n)
+47>
+--(15,q)
+-(13,o)
+--(12,n)
+(10,l)
+--(9,h)
+-(8,g)
+---(7,f)
+--(6,e)
+---(4,b)
+48>(6,e)
+49>(7,f)
+50>Fin.

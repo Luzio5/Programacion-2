@@ -1,0 +1,153 @@
+1>#  prueba de menores, suma_ultimos_pares, linealizacion, cadena_a_binario, es_camino, nivel_en_binario, esAVL.
+2>
+3>Insertado.
+4>
+5>
+(5,l)
+6>Insertado.
+7>AVL.
+8>Insertado.
+9>AVL.
+10>Insertado.
+11>AVL.
+12>(8,b)(4,g)(5,l)(3,o)
+13>
+-(3,o)
+(4,g)
+14>Insertado.
+15>No AVL.
+16>Insertado.
+17>No AVL.
+18>
+-(3,o)
+(1,h)
+-(4,g)
+--(3,e)
+19>Insertado.
+20>Insertado.
+21>Insertado.
+22>AVL.
+23>(8,b)(3,e)(4,g)(1,h)(5,l)(13,n)(3,o)(2,p)(9,q)
+24>
+--(2,p)
+-(3,o)
+(1,h)
+-(4,g)
+--(3,e)
+25>
+--(2,p)
+-(3,o)
+(5,l)
+--(1,h)
+-(4,g)
+--(3,e)
+26>(5,l)
+27>(4,g)(3,o)
+28>(8,b)(1,h)(13,n)(9,q)
+29>(3,e)(2,p)
+30>Estructuras reiniciadas.
+31>Insertado.
+32>NO es camino.
+33>AVL.
+34>Insertado.
+35>Insertado.
+36>AVL.
+37>(3,g)(7,l)(8,o)
+38>Insertado.
+39>Insertado.
+40>Insertado.
+41>No AVL.
+42>Insertado.
+43>Insertado.
+44>NO es camino.
+45>NO es camino.
+46>Es camino.
+47>AVL.
+48>(2,e)(3,g)(1,h)(7,l)(6,n)(8,o)(11,p)(4,q)
+49>Insertado.
+50>Insertado.
+51>Insertado.
+52>Es camino.
+53>
+--(2,r)
+-(4,q)
+(1,h)
+-(3,g)
+--(2,e)
+54>
+---(2,r)
+--(4,q)
+-(6,n)
+(7,l)
+--(1,h)
+-(3,g)
+--(2,e)
+55>
+---(2,r)
+--(4,q)
+-(8,o)
+--(6,n)
+(7,l)
+--(1,h)
+-(3,g)
+--(2,e)
+---(9,a)
+56>
+---(2,r)
+--(4,q)
+---(11,p)
+-(8,o)
+--(6,n)
+(7,l)
+--(1,h)
+-(3,g)
+---(10,f)
+--(2,e)
+---(9,a)
+57>0
+58>2
+59>6
+60>14
+61>20
+62>30
+63>32
+64>32
+65>32
+66>(9,a)(2,e)(10,f)(3,g)(1,h)(7,l)(6,n)(8,o)(11,p)(4,q)(2,r)
+67>Es camino.
+68>NO es camino.
+69>NO es camino.
+70>(7,l)
+71>(3,g)(8,o)
+72>(2,e)(1,h)(6,n)(4,q)
+73>(9,a)(10,f)(11,p)(2,r)
+74>
+75>Estructuras reiniciadas.
+76>
+77>
+(9,a)
+78>
+-(10,f)
+(2,e)
+-(9,a)
+79>
+-(3,g)
+(10,f)
+-(2,e)
+--(9,a)
+80>
+-(8,o)
+--(7,l)
+(3,g)
+--(10,f)
+-(2,e)
+--(9,a)
+81>
+--(4,q)
+-(8,o)
+--(7,l)
+(3,g)
+--(10,f)
+-(2,e)
+--(9,a)
+82>Fin.

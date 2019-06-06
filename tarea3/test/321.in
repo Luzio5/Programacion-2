@@ -1,0 +1,50 @@
+# prueba de es_vacio_binario, insertar_en_binario, cantidad_binario, raiz, izquierdo, derecho, altura_binario, imprimir_binario, buscar_subarbol
+es_vacio_binario
+cantidad_binario
+altura_binario
+raiz
+izquierdo
+derecho
+imprimir_binario
+buscar_subarbol a
+insertar_en_binario (10,l)
+es_vacio_binario
+cantidad_binario
+altura_binario
+raiz
+izquierdo
+derecho
+imprimir_binario
+buscar_subarbol a
+buscar_subarbol l
+insertar_en_binario (8,g)
+insertar_en_binario (13,o)
+es_vacio_binario
+cantidad_binario
+altura_binario
+raiz
+izquierdo
+derecho
+imprimir_binario
+buscar_subarbol g
+buscar_subarbol o
+insertar_en_binario (9,h)
+cantidad_binario
+altura_binario
+insertar_en_binario (6,e)
+insertar_en_binario (4,b)
+insertar_en_binario (12,n)
+cantidad_binario
+altura_binario
+insertar_en_binario (15,q)
+insertar_en_binario (7,f)
+es_vacio_binario
+cantidad_binario
+altura_binario
+raiz
+izquierdo
+derecho
+imprimir_binario
+buscar_subarbol e
+buscar_subarbol f
+Fin

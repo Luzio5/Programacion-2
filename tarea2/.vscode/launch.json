@@ -1,0 +1,16 @@
+
+    {
+        "name": "C++ Launch (Windows)",
+        "type": "cppvsdbg",
+        "request": "launch",
+        "program": "/home/luciano/Escritorio/fing/Programacion 2/tarea2/principal",
+        "symbolSearchPath": "/home/luciano/Escritorio/fing/Programacion 2/tarea2",
+        "externalConsole": true,
+        "logging": {
+            "moduleLoad": false,
+            "trace": true
+         },
+        "visualizerFile": "${workspaceRoot}/my.natvis",
+        "showDisplayString": true
+     }
+

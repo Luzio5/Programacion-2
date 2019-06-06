@@ -1,0 +1,82 @@
+# prueba de menores, suma_ultimos_pares, linealizacion, cadena_a_binario, es_camino, nivel_en_binario, esAVL
+menores 5
+insertar_en_binario (5,l)
+menores 5
+menores 6
+insertar_en_binario (4,g)
+es_AVL
+insertar_en_binario (3,o)
+es_AVL
+insertar_en_binario (8,b)
+es_AVL
+linealizacion
+menores 5
+insertar_en_binario (3,e)
+es_AVL
+insertar_en_binario (1,h)
+es_AVL
+menores 5
+insertar_en_binario (13,n)
+insertar_en_binario (9,q)
+insertar_en_binario (2,p)
+es_AVL
+linealizacion
+menores 5
+menores 6
+nivel_en_binario 1
+nivel_en_binario 2
+nivel_en_binario 3
+nivel_en_binario 4
+reiniciar
+insertar_en_binario (7,l)
+es_camino (7, l) .
+es_AVL
+insertar_en_binario (3,g)
+insertar_en_binario (8,o)
+es_AVL
+linealizacion
+insertar_en_binario (6,n)
+insertar_en_binario (4,q)
+insertar_en_binario (11,p)
+es_AVL
+insertar_en_binario (2,e)
+insertar_en_binario (1,h)
+es_camino (7,l) (3,g) .
+es_camino (3,g) (2,e).
+es_camino (7,l) (3,g) (2,e).
+es_AVL
+linealizacion
+insertar_en_binario (2,r)
+insertar_en_binario (9,a)
+insertar_en_binario (10,f)
+es_camino (7,l) (8,o) (4,q) (11,p).
+menores 5
+menores 8
+menores 10
+imprimir_binario
+suma_ultimos_pares 0
+suma_ultimos_pares 1
+suma_ultimos_pares 2
+suma_ultimos_pares 3
+suma_ultimos_pares 4
+suma_ultimos_pares 5
+suma_ultimos_pares 6
+suma_ultimos_pares 7
+suma_ultimos_pares 8
+linealizacion
+es_camino (7,l) (3,g) (2,e) (10,f).
+es_camino (3,g) (2,e) (10,f).
+es_camino (3,g) (2,e).
+nivel_en_binario 1
+nivel_en_binario 2
+nivel_en_binario 3
+nivel_en_binario 4
+nivel_en_binario 5
+reiniciar
+cadena_a_binario .
+cadena_a_binario (9,a) .
+cadena_a_binario (9,a) (2,e) (10,f) .
+cadena_a_binario (9,a) (2,e) (10,f) (3,g) .
+cadena_a_binario (9,a) (2,e) (10,f) (3,g) (7,l) (8,o) .
+cadena_a_binario (9,a) (2,e) (10,f) (3,g) (7,l) (8,o) (4,q) .
+Fin

@@ -1,0 +1,37 @@
+# prueba de esta_ordenada, mezcla, ordenar
+esta_ordenada
+mezcla .
+ordenar
+imprimir_cadena
+mezcla (1,a) (2,b) (3,c) .
+insertar_al_final (10,j)
+esta_ordenada
+mezcla .
+ordenar
+imprimir_cadena
+mezcla (1,a) (2,b) (3,c) .
+final_cadena
+insertar_antes (1,z)
+esta_ordenada
+ordenar
+insertar_al_final (9,i)
+esta_ordenada
+ordenar
+esta_ordenada
+imprimir_cadena
+inicio_cadena
+insertar_segmento_despues (2,y) (5,x) (7,w) (8,v) .
+esta_ordenada
+imprimir_cadena
+mezcla .
+mezcla (6,f) (12,bb) (13,cc) .
+mezcla (1,a) (2,b) (3,c) .
+intercambiar 1 4
+intercambiar 3 7
+intercambiar 2 5
+imprimir_cadena
+esta_ordenada
+ordenar
+esta_ordenada
+imprimir_cadena
+Fin

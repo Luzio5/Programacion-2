@@ -1,0 +1,61 @@
+# Prueba mapping
+es_lleno_map
+es_clave q
+valor q
+desasociar q
+asociar q 0
+es_lleno_map
+es_clave q
+valor q
+desasociar w
+desasociar q
+es_lleno_map
+es_clave q
+valor q
+asociar q 1
+valor q
+asociar w w
+asociar e 1
+asociar r r
+asociar t 1
+asociar y 1
+asociar u 1
+asociar i 1
+asociar o 1
+asociar p 1
+asociar a 2
+asociar s 2
+asociar d 2
+asociar f 2
+asociar g 2
+asociar h 2
+asociar j 2
+asociar k 2
+asociar l 2
+asociar z 3
+asociar x 3
+asociar c 3
+asociar v 3
+asociar b 3
+asociar n 3
+asociar m 3
+asociar ( )
+asociar { }
+asociar [ ]
+es_lleno_map
+asociar s 3
+es_lleno_map
+asociar < >
+es_lleno_map
+valor e
+valor t
+valor <
+valor (
+valor {
+valor [
+desasociar e
+es_lleno_map
+valor e
+valor w
+valor r
+Fin

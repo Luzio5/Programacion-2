@@ -1,0 +1,50 @@
+# prueba de insertar_antes, inicio_cadena, final_cadena, kesimo, siguiente, anterior, es_localizador, es_inicio_cadena, es_final_cadena
+es_localizador
+inicio_cadena
+final_cadena
+es_inicio_cadena
+es_final_cadena
+insertar_al_final (1,a)
+es_inicio_cadena
+es_final_cadena
+inicio_cadena
+es_localizador
+es_inicio_cadena
+es_final_cadena
+insertar_antes (2,b)
+es_localizador
+es_inicio_cadena
+es_final_cadena
+imprimir_cadena
+final_cadena
+es_localizador
+es_inicio_cadena
+es_final_cadena
+insertar_antes (3,c)
+imprimir_cadena
+anterior
+es_localizador
+insertar_antes (4,d)
+imprimir_cadena
+inicio_cadena
+es_inicio_cadena
+es_final_cadena
+siguiente
+es_localizador
+insertar_antes (5,e)
+imprimir_cadena
+kesimo 3
+es_localizador
+es_inicio_cadena
+es_final_cadena
+insertar_antes (6,f)
+imprimir_cadena
+final_cadena
+siguiente
+es_localizador
+insertar_antes (6,f)
+inicio_cadena
+anterior
+es_localizador
+insertar_antes (6,f)
+Fin

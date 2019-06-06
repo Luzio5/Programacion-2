@@ -1,0 +1,37 @@
+1>#  prueba de esta_ordenada, mezcla, ordenar.
+2>cad ordenada.
+3>
+4>Ordenada.
+5>
+6>(1,a)(2,b)(3,c)
+7>Insertado al final.
+8>cad ordenada.
+9>(10,j)
+10>Ordenada.
+11>(10,j)
+12>(1,a)(2,b)(3,c)(10,j)
+13>loc al final.
+14>Insertado antes de loc.
+15>cad ordenada.
+16>Ordenada.
+17>Insertado al final.
+18>cad no ordenada.
+19>Ordenada.
+20>cad ordenada.
+21>(1,z)(9,i)(10,j)
+22>loc al inicio.
+23>Segmento insertado después de loc.
+24>cad ordenada.
+25>(1,z)(2,y)(5,x)(7,w)(8,v)(9,i)(10,j)
+26>(1,z)(2,y)(5,x)(7,w)(8,v)(9,i)(10,j)
+27>(1,z)(2,y)(5,x)(6,f)(7,w)(8,v)(9,i)(10,j)(12,bb)(13,cc)
+28>(1,z)(1,a)(2,y)(2,b)(3,c)(5,x)(7,w)(8,v)(9,i)(10,j)
+29>Intercambio.
+30>Intercambio.
+31>Intercambio.
+32>(7,w)(8,v)(10,j)(1,z)(2,y)(9,i)(5,x)
+33>cad no ordenada.
+34>Ordenada.
+35>cad ordenada.
+36>(1,z)(2,y)(5,x)(7,w)(8,v)(9,i)(10,j)
+37>Fin.

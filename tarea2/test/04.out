@@ -1,0 +1,67 @@
+1>#  prueba de insertar_segmento_despues, copiar_segmento, cortar_segmento, precede_en_cadena, menor_en_cadena, siguiente_clave.
+2>Posición fuera de rango.
+3>Segmento insertado después de loc.
+4>cad vacia.
+5>
+6>Posición fuera de rango.
+7>
+8>
+9>Segmento insertado después de loc.
+10>cad no vacia.
+11>(1,a)
+12>(1,a)
+13>
+14>Segmento insertado después de loc.
+15>(2,b)(3,c)(4,d)(5,e)
+16>loc al inicio.
+17>loc1 precede a loc.
+18>loc1 no precede a loc.
+19>loc al siguiente.
+20>Segmento insertado después de loc.
+21>(2,b)(3,c)(4,d)(5,e)
+22>Segmento insertado después de loc.
+23>(2,b)(3,c)(6,f)(4,d)(5,e)
+24>loc al final.
+25>loc1 precede a loc.
+26>loc1 precede a loc.
+27>Segmento insertado después de loc.
+28>(2,b)(3,c)(6,f)(4,d)(5,e)(7,g)(8,h)
+29>Segmento insertado después de loc.
+30>loc1 precede a loc.
+31>loc1 precede a loc.
+32>loc1 no precede a loc.
+33>(2,b)(3,c)(6,f)(4,d)(5,e)(9,i)(10,j)(7,g)(8,h)
+34>(2,b)
+35>(5,e)
+36>(8,h)
+37>(2,b)(3,c)(6,f)(4,d)(5,e)(9,i)(10,j)(7,g)(8,h)
+38>(3,c)(6,f)(4,d)(5,e)(9,i)(10,j)(7,g)
+39>(2,b)(3,c)(6,f)(4,d)(5,e)(9,i)(10,j)(7,g)
+40>(3,c)(6,f)(4,d)(5,e)(9,i)(10,j)(7,g)
+41>(3,c)(6,f)(4,d)(9,i)(10,j)(7,g)
+42>(3,c)(6,f)(4,d)
+43>(4,d)
+44>
+45>cad vacia.
+46>Segmento insertado después de loc.
+47>loc al inicio.
+48>(2,b)
+49>loc avanzó hasta el menor.
+50>(1,a)
+51>Segmento insertado después de loc.
+52>loc avanzó hasta el menor.
+53>(0,0)
+54>loc avanzó buscando 1.
+55>loc no válido.
+56>loc al final.
+57>loc avanzó hasta el menor.
+58>(8,h)
+59>loc avanzó buscando 8.
+60>loc válido.
+61>(8,h)
+62>loc en la posición 2.
+63>loc avanzó buscando 3.
+64>(3,c)
+65>loc avanzó buscando 7.
+66>(7,g)
+67>Fin.

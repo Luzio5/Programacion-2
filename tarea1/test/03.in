@@ -1,0 +1,43 @@
+# bien balanceados, no hay delimitadore
+es_balanceado q
+es_balanceado qwertyuiop
+# mal balanceados, faltan delimitadore
+es_balanceado <
+es_balanceado (
+es_balanceado {
+es_balanceado [
+es_balanceado >
+es_balanceado )
+es_balanceado }
+es_balanceado ]
+# bien balanceados, un solo par de delimitadores
+es_balanceado <>
+es_balanceado ()
+es_balanceado {}
+es_balanceado []
+es_balanceado aaa()
+es_balanceado (bbb)
+es_balanceado ()ccc
+es_balanceado aaa(bbb)ccc
+# mal balanceados, el delimitador de cierre está antes que el de apertura 
+es_balanceado ><
+es_balanceado )(
+es_balanceado }{
+es_balanceado ][
+# mal balanceados, no se corresponden 
+es_balanceado <)
+es_balanceado {]
+# mal balanceados, solapados
+es_balanceado ({)} 
+es_balanceado <[>]
+# bien balanceados, pares consecutivos
+es_balanceado ()<>[]{}
+es_balanceado a{b}c(d)e<f>g[h]i
+# bien balanceados, anidados
+es_balanceado <<>>
+es_balanceado <()>
+es_balanceado <(){}>[<>]
+es_balanceado <({})> 
+es_balanceado a<b(c{d[e]f}g)h>i 
+es_balanceado <({{[(<>)]}})>a((())(())) 
+Fin

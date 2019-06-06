@@ -1,0 +1,61 @@
+1>#  Prueba mapping.
+2>El mapping no está lleno. 
+3>q no es clave. 
+4>q no es clave. La operacion no tiene efecto. 
+5>q no es clave. La operacion no tiene efecto. 
+6>Se asoció q con 0. 
+7>El mapping no está lleno. 
+8>q es clave. 
+9>q está asociado a 0. 
+10>w no es clave. La operacion no tiene efecto. 
+11>Se removió la asociación de q. 
+12>El mapping no está lleno. 
+13>q no es clave. 
+14>q no es clave. La operacion no tiene efecto. 
+15>Se asoció q con 1. 
+16>q está asociado a 1. 
+17>Se asoció w con w. 
+18>Se asoció e con 1. 
+19>Se asoció r con r. 
+20>Se asoció t con 1. 
+21>Se asoció y con 1. 
+22>Se asoció u con 1. 
+23>Se asoció i con 1. 
+24>Se asoció o con 1. 
+25>Se asoció p con 1. 
+26>Se asoció a con 2. 
+27>Se asoció s con 2. 
+28>Se asoció d con 2. 
+29>Se asoció f con 2. 
+30>Se asoció g con 2. 
+31>Se asoció h con 2. 
+32>Se asoció j con 2. 
+33>Se asoció k con 2. 
+34>Se asoció l con 2. 
+35>Se asoció z con 3. 
+36>Se asoció x con 3. 
+37>Se asoció c con 3. 
+38>Se asoció v con 3. 
+39>Se asoció b con 3. 
+40>Se asoció n con 3. 
+41>Se asoció m con 3. 
+42>Se asoció ( con ). 
+43>Se asoció { con }. 
+44>Se asoció [ con ]. 
+45>El mapping no está lleno. 
+46>s es clave. La operacion no tiene efecto. 
+47>El mapping no está lleno. 
+48>Se asoció < con >. 
+49>El mapping está lleno. 
+50>e está asociado a 1. 
+51>t está asociado a 1. 
+52>< está asociado a >. 
+53>( está asociado a ). 
+54>{ está asociado a }. 
+55>[ está asociado a ]. 
+56>Se removió la asociación de e. 
+57>El mapping no está lleno. 
+58>e no es clave. La operacion no tiene efecto. 
+59>w está asociado a w. 
+60>r está asociado a r. 
+61>Fin.

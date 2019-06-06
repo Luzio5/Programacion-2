@@ -1,0 +1,68 @@
+1>#  prueba de remover_de_cadena, cambiar_en_cadena, intercambiar, info_cadena, localizador_en_cadena.
+2>Localizador no válido.
+3>Localizador no válido.
+4>Insertado al final.
+5>Localizador no válido.
+6>loc al inicio.
+7>Removido.
+8>cad vacia.
+9>Localizador no válido.
+10>Insertado al final.
+11>Insertado al final.
+12>loc al inicio.
+13>loc pertenece a cad.
+14>Removido.
+15>loc no pertenece a cad.
+16>cad no vacia.
+17>(3,c)
+18>Insertado al final.
+19>loc al final.
+20>loc pertenece a cad.
+21>Removido.
+22>loc no pertenece a cad.
+23>cad no vacia.
+24>(3,c)
+25>Insertado al final.
+26>loc al final.
+27>loc al anterior.
+28>Removido.
+29>(5,e)
+30>Insertado al final.
+31>Insertado al final.
+32>Insertado al final.
+33>(5,e)(6,f)(7,g)(8,h)
+34>loc en la posición 2.
+35>loc pertenece a cad.
+36>Removido.
+37>loc no pertenece a cad.
+38>Localizador no válido.
+39>(5,e)(7,g)(8,h)
+40>Localizador no válido.
+41>loc al inicio.
+42>(5,e)
+43>Cambio.
+44>(9,i)
+45>(9,i)(7,g)(8,h)
+46>loc al final.
+47>(8,h)
+48>Cambio.
+49>(10,j)
+50>(9,i)(7,g)(10,j)
+51>loc en la posición 2.
+52>(7,g)
+53>Cambio.
+54>(11,k)
+55>(9,i)(11,k)(10,j)
+56>Intercambio.
+57>(9,i)(11,k)(10,j)
+58>Intercambio.
+59>(9,i)(11,k)(10,j)
+60>Intercambio.
+61>(9,i)(11,k)(10,j)
+62>Intercambio.
+63>(11,k)(9,i)(10,j)
+64>Intercambio.
+65>(10,j)(9,i)(11,k)
+66>Intercambio.
+67>(10,j)(11,k)(9,i)
+68>Fin.

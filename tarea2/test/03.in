@@ -1,0 +1,68 @@
+# prueba de remover_de_cadena, cambiar_en_cadena, intercambiar, info_cadena, localizador_en_cadena
+remover_de_cadena
+cambiar_en_cadena (1,a)
+insertar_al_final (1,a)
+remover_de_cadena
+inicio_cadena
+remover_de_cadena
+es_vacia_cadena
+remover_de_cadena
+insertar_al_final (2,b)
+insertar_al_final (3,c)
+inicio_cadena
+localizador_en_cadena
+remover_de_cadena
+localizador_en_cadena
+es_vacia_cadena
+imprimir_cadena
+insertar_al_final (4,d)
+final_cadena
+localizador_en_cadena
+remover_de_cadena
+localizador_en_cadena
+es_vacia_cadena
+imprimir_cadena
+insertar_al_final (5,e)
+final_cadena
+anterior
+remover_de_cadena
+imprimir_cadena
+insertar_al_final (6,f)
+insertar_al_final (7,g)
+insertar_al_final (8,h)
+imprimir_cadena
+kesimo 2
+localizador_en_cadena
+remover_de_cadena
+localizador_en_cadena
+info_cadena
+imprimir_cadena
+cambiar_en_cadena (1,a)
+inicio_cadena
+info_cadena
+cambiar_en_cadena (9,i)
+info_cadena
+imprimir_cadena
+final_cadena
+info_cadena
+cambiar_en_cadena (10,j)
+info_cadena
+imprimir_cadena
+kesimo 2
+info_cadena
+cambiar_en_cadena (11,k)
+info_cadena
+imprimir_cadena
+intercambiar 1 1
+imprimir_cadena
+intercambiar 2 2
+imprimir_cadena
+intercambiar 3 3
+imprimir_cadena
+intercambiar 1 2
+imprimir_cadena
+intercambiar 3 1
+imprimir_cadena
+intercambiar 2 3
+imprimir_cadena
+Fin

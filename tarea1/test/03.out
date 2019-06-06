@@ -1,0 +1,43 @@
+1>#  bien balanceados, no hay delimitadore.
+2>Bien balanceados.
+3>Bien balanceados.
+4>#  mal balanceados, faltan delimitadore.
+5>Mal balanceados.
+6>Mal balanceados.
+7>Mal balanceados.
+8>Mal balanceados.
+9>Mal balanceados.
+10>Mal balanceados.
+11>Mal balanceados.
+12>Mal balanceados.
+13>#  bien balanceados, un solo par de delimitadores.
+14>Bien balanceados.
+15>Bien balanceados.
+16>Bien balanceados.
+17>Bien balanceados.
+18>Bien balanceados.
+19>Bien balanceados.
+20>Bien balanceados.
+21>Bien balanceados.
+22>#  mal balanceados, el delimitador de cierre está antes que el de apertura .
+23>Mal balanceados.
+24>Mal balanceados.
+25>Mal balanceados.
+26>Mal balanceados.
+27>#  mal balanceados, no se corresponden .
+28>Mal balanceados.
+29>Mal balanceados.
+30>#  mal balanceados, solapados.
+31>Mal balanceados.
+32>Mal balanceados.
+33>#  bien balanceados, pares consecutivos.
+34>Bien balanceados.
+35>Bien balanceados.
+36>#  bien balanceados, anidados.
+37>Bien balanceados.
+38>Bien balanceados.
+39>Bien balanceados.
+40>Bien balanceados.
+41>Bien balanceados.
+42>Bien balanceados.
+43>Fin.
