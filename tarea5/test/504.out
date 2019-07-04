@@ -1,0 +1,33 @@
+1>#  prueba de heap: eliminar_menor.
+2>Se insertó el elemento.
+3>(8,twr)
+4>Eliminado.
+5>Vacio.
+6>Máximo valor posible: 10000.
+7>Se insertó el elemento.
+8>(8,twr)
+9>Se insertó el elemento.
+10>(4,ggg)
+11>Eliminado.
+12>(8,twr)
+13>Se insertó el elemento.
+14>Se insertó el elemento.
+15>Se insertó el elemento.
+16>(8,twr)
+17>Eliminado.
+18>(148,vbh)
+19>Se insertó el elemento.
+20>(2,kiu)
+21>Se insertó el elemento.
+22>Se insertó el elemento.
+23>Eliminado.
+24>(4,ggg)
+25>Eliminado.
+26>Eliminado.
+27>Eliminado.
+28>Eliminado.
+29>(9999,twr)
+30>No vacío.
+31>Eliminado.
+32>Vacio.
+33>Fin.

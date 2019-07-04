@@ -1,0 +1,49 @@
+# prueba de hash: actualizar_hash, eliminar_de_hash  
+asociar_en_hash 5 vvv
+asociar_en_hash 85 axss
+valor_en_hash 5
+valor_en_hash 85
+actualizar_hash 5 ppp
+actualizar_hash 85 axss
+valor_en_hash 5
+valor_en_hash 85
+asociar_en_hash 25 sss
+valor_en_hash 25
+actualizar_hash 25 vvv
+valor_en_hash 25
+valor_en_hash 25
+asociar_en_hash 3 ppp
+asociar_en_hash -3 ppp
+asociar_en_hash 465 frtt
+asociar_en_hash -2753 bgtt
+asociar_en_hash 415 xsde
+asociar_en_hash 63 juiuk
+asociar_en_hash 185 xss
+esta_lleno_hash
+actualizar_hash 25 ooo
+existe_asociacion 25
+valor_en_hash 25
+eliminar_de_hash 25
+esta_lleno_hash
+existe_asociacion 25
+asociar_en_hash 25 www
+valor_en_hash 25
+valor_en_hash 5
+valor_en_hash 85
+eliminar_de_hash 25
+eliminar_de_hash 85
+eliminar_de_hash 5
+existe_asociacion 25
+existe_asociacion 85
+existe_asociacion 5
+valor_en_hash 3
+valor_en_hash -3
+eliminar_de_hash 3
+eliminar_de_hash -3
+asociar_en_hash 3 ddd
+asociar_en_hash -3 ddd
+valor_en_hash 3
+valor_en_hash -3
+Fin
+
+

@@ -1,0 +1,33 @@
+# prueba de heap: eliminar_menor
+insertar_en_heap (8,twr)
+menor
+eliminar_menor
+es_vacio_heap
+max_valor
+insertar_en_heap (8,twr)
+menor
+insertar_en_heap (4,ggg)
+menor
+eliminar_menor
+menor
+insertar_en_heap (9999,twr)
+insertar_en_heap (148,vbh)
+insertar_en_heap (5000,sder)
+menor
+eliminar_menor
+menor
+insertar_en_heap (2,kiu)
+menor
+insertar_en_heap (4,ggg)
+insertar_en_heap (8,twr)
+eliminar_menor
+menor
+eliminar_menor
+eliminar_menor
+eliminar_menor
+eliminar_menor
+menor
+es_vacio_heap
+eliminar_menor
+es_vacio_heap
+Fin

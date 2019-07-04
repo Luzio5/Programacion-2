@@ -1,0 +1,22 @@
+# prueba de heap: reducir, hay_valor
+hay_valor 0
+insertar_en_heap (6,kap)
+insertar_en_heap (7,rrp)
+insertar_en_heap (8,uyp)
+insertar_en_heap (9,pldfdf)
+insertar_en_heap (1,vfd)
+insertar_en_heap (2,erer)
+insertar_en_heap (3,bbb)
+insertar_en_heap (4,aaa)
+insertar_en_heap (5,i)
+menor
+eliminar_menor
+menor
+eliminar_menor
+hay_valor 3
+menor
+eliminar_menor
+menor
+reducir 5
+menor
+Fin

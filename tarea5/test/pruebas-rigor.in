@@ -1,0 +1,169 @@
+# Guardar como pruebas-rigor.in
+# Para generar la salida, ejecutar la siguiente línea desde la terminal: 
+# timeout 4 valgrind -q --leak-check=full ./principal < test/pruebas-rigor.in > test/pruebas-rigor.sal 2>&1
+# Para generar el .diff, ejecutar la siguiente línea desde la terminal:
+# diff test/pruebas-rigor.sal test/pruebas-rigor.out > test/pruebas-rigor.diff
+# Prueba de borrado cuando bucket no está solo (usa 10 de tamanio en el principal.cpp).
+asociar_en_hash 11 onceAntes
+asociar_en_hash 1 unoAntes
+actualizar_hash 1 unoDespues
+actualizar_hash 11 onceDespues
+eliminar_de_hash 1
+valor_en_hash 1
+valor_en_hash 11
+# HASH --- Prueba de tamanio de hash (usa 10 de tamanio en el principal.cpp).
+reiniciar
+asociar_en_hash 1 num1Antes
+asociar_en_hash 2 num2Antes
+asociar_en_hash 3 num3Antes
+asociar_en_hash 4 num4Antes
+asociar_en_hash 5 num5Antes
+asociar_en_hash 6 num6Antes
+asociar_en_hash 7 num7Antes
+asociar_en_hash 8 num8Antes
+asociar_en_hash 9 num9Antes
+asociar_en_hash 10 num10Antes
+esta_lleno_hash
+asociar_en_hash 11 num11Antes
+esta_lleno_hash
+actualizar_hash 1 unoDespues
+valor_en_hash 1
+eliminar_de_hash 1
+valor_en_hash 1
+valor_en_hash 11
+valor_en_hash 10
+# Prueba de liberado correcto de al borrar (usa 10 de tamanio en el principal.cpp).
+reiniciar
+asociar_en_hash 1 num1Antes
+asociar_en_hash 2 num2Antes
+asociar_en_hash 3 num3Antes
+asociar_en_hash 4 num4Antes
+asociar_en_hash 5 num5Antes
+asociar_en_hash 6 num6Antes
+asociar_en_hash 7 num7Antes
+asociar_en_hash 8 num8Antes
+asociar_en_hash 9 num9Antes
+asociar_en_hash 10 num10Antes
+actualizar_hash 1 unoDespues
+valor_en_hash 1
+eliminar_de_hash 1
+asociar_en_hash 11 num11Antes
+asociar_en_hash 12 num12Antes
+valor_en_hash 1
+valor_en_hash 10
+valor_en_hash 11
+valor_en_hash 12
+# Prueba de llenado repitiendo buckets, actualizado, eliminado y llenado
+reiniciar
+asociar_en_hash 1 num1Antes
+asociar_en_hash 2 num2Antes
+asociar_en_hash 3 num3Antes
+asociar_en_hash 4 num4Antes
+asociar_en_hash 5 num5Antes
+asociar_en_hash 11 num11Antes
+asociar_en_hash 12 num12Antes
+asociar_en_hash 13 num13Antes
+asociar_en_hash 14 num14Antes
+asociar_en_hash 15 num15Antes
+asociar_en_hash 100 noDeberiaEntrar
+valor_en_hash 1
+valor_en_hash 2
+valor_en_hash 3
+valor_en_hash 4
+valor_en_hash 5
+valor_en_hash 11
+valor_en_hash 12
+valor_en_hash 13
+valor_en_hash 14
+valor_en_hash 15
+valor_en_hash 100
+actualizar_hash 4 num4Despues
+actualizar_hash 5 num5Despues
+actualizar_hash 11 num11Despues
+actualizar_hash 12 num12Despues
+asociar_en_hash 100 noDeberiaEntrar
+valor_en_hash 1
+valor_en_hash 2
+valor_en_hash 3
+valor_en_hash 4
+valor_en_hash 5
+valor_en_hash 11
+valor_en_hash 12
+valor_en_hash 13
+valor_en_hash 14
+valor_en_hash 15
+valor_en_hash 100
+eliminar_de_hash 1
+eliminar_de_hash 2
+eliminar_de_hash 3
+eliminar_de_hash 4
+eliminar_de_hash 5
+eliminar_de_hash 11
+eliminar_de_hash 12
+eliminar_de_hash 13
+eliminar_de_hash 14
+eliminar_de_hash 15
+eliminar_de_hash 100
+asociar_en_hash 100 deberiaEntrar
+valor_en_hash 1
+valor_en_hash 2
+valor_en_hash 3
+valor_en_hash 4
+valor_en_hash 5
+valor_en_hash 11
+valor_en_hash 12
+valor_en_hash 13
+valor_en_hash 14
+valor_en_hash 15
+valor_en_hash 100
+eliminar_de_hash 100
+valor_en_hash 100
+# HEAP --- Prueba de casos borde de reducir.
+reiniciar
+insertar_en_heap (6,VALOR1)
+insertar_en_heap (7,VALOR2)
+insertar_en_heap (8,VALOR4)
+insertar_en_heap (9,VALOR6)
+insertar_en_heap (44,VALOR3)
+insertar_en_heap (11,VALOR7)
+insertar_en_heap (12,VALOR8)
+insertar_en_heap (13,VALOR9)
+insertar_en_heap (10,VALOR10)
+reducir 10
+reducir 5
+reducir 2
+reducir 1
+reducir 0
+menor
+# HEAP --- Prueba de eliminar menor + reducir.
+reiniciar
+insertar_en_heap (6,VALOR1)
+insertar_en_heap (7,VALOR2)
+insertar_en_heap (8,VALOR4)
+insertar_en_heap (9,VALOR6)
+insertar_en_heap (44,VALOR3)
+insertar_en_heap (11,VALOR7)
+insertar_en_heap (12,VALOR8)
+insertar_en_heap (13,VALOR9)
+insertar_en_heap (10,VALOR10)
+eliminar_menor
+menor
+eliminar_menor
+menor
+reducir 8
+menor
+eliminar_menor
+menor
+reducir 9
+reducir 44
+reducir 22
+reducir 11
+reducir 22
+menor
+reducir 5
+menor
+eliminar_menor
+menor
+reducir 11
+menor
+Fin

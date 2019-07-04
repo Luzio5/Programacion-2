@@ -1,0 +1,36 @@
+1>#  prueba de heap: reducir, hay_valor.
+2>No hay valor.
+3>No hay valor.
+4>Se insertó el elemento.
+5>Hay valor.
+6>(5,trr)
+7>Se insertó el elemento.
+8>Se insertó el elemento.
+9>Hay valor.
+10>Hay valor.
+11>No hay valor.
+12>Se redujo el valor.
+13>No hay valor.
+14>Hay valor.
+15>(4,kop)
+16>Eliminado.
+17>No hay valor.
+18>(5,trr)
+19>Se insertó el elemento.
+20>Se insertó el elemento.
+21>Se insertó el elemento.
+22>Se insertó el elemento.
+23>Se insertó el elemento.
+24>Se insertó el elemento.
+25>Se insertó el elemento.
+26>No lleno.
+27>Se insertó el elemento.
+28>LLeno.
+29>Se redujo el valor.
+30>Hay valor.
+31>(2,lop)
+32>Eliminado.
+33>(4,t55)
+34>Se redujo el valor.
+35>(3,hhy)
+36>Fin.

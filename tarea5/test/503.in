@@ -1,0 +1,28 @@
+# prueba de heap: max_valor, es_vacio_heap, es_lleno_heap, insertar_en_heap, menor
+max_valor
+es_vacio_heap
+es_lleno_heap
+insertar_en_heap (5,trr)
+max_valor
+es_vacio_heap
+es_lleno_heap
+menor
+insertar_en_heap (8,twr)
+menor
+insertar_en_heap (4,ggg)
+menor
+insertar_en_heap (9999,twr)
+insertar_en_heap (148,vbh)
+insertar_en_heap (5000,sder)
+insertar_en_heap (2,kiu)
+menor
+insertar_en_heap (1,vbgt)
+insertar_en_heap (9642,kdse)
+max_valor
+es_vacio_heap
+es_lleno_heap
+menor
+insertar_en_heap (0,twr)
+menor
+es_lleno_heap
+Fin

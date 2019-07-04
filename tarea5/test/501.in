@@ -1,0 +1,33 @@
+# prueba de hash: esta_lleno_hash, existe_asociacion, asociar_en_hash, valor_en_hash 
+esta_lleno_hash
+existe_asociacion 5
+existe_asociacion 3
+asociar_en_hash 5 vvv
+existe_asociacion 5
+valor_en_hash 5
+existe_asociacion 3
+asociar_en_hash -3 vvv
+existe_asociacion 3
+existe_asociacion -3
+valor_en_hash -3
+asociar_en_hash 3 ppp
+asociar_en_hash 25 sss
+asociar_en_hash 465 frtt
+asociar_en_hash -2753 bgtt
+asociar_en_hash 415 xsde
+asociar_en_hash 63 juiuk
+asociar_en_hash 85 axss
+esta_lleno_hash
+existe_asociacion 3
+valor_en_hash 3
+existe_asociacion 85
+valor_en_hash 85
+asociar_en_hash 185 xss
+esta_lleno_hash
+existe_asociacion 185
+valor_en_hash 185
+existe_asociacion -2753
+valor_en_hash -2753
+existe_asociacion 5
+valor_en_hash 5
+Fin

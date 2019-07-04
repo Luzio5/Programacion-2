@@ -1,0 +1,28 @@
+1>#  prueba de heap: max_valor, es_vacio_heap, es_lleno_heap, insertar_en_heap, menor.
+2>Máximo valor posible: 10000.
+3>Vacio.
+4>No lleno.
+5>Se insertó el elemento.
+6>Máximo valor posible: 10000.
+7>No vacío.
+8>No lleno.
+9>(5,trr)
+10>Se insertó el elemento.
+11>(5,trr)
+12>Se insertó el elemento.
+13>(4,ggg)
+14>Se insertó el elemento.
+15>Se insertó el elemento.
+16>Se insertó el elemento.
+17>Se insertó el elemento.
+18>(2,kiu)
+19>Se insertó el elemento.
+20>Se insertó el elemento.
+21>Máximo valor posible: 10000.
+22>No vacío.
+23>No lleno.
+24>(1,vbgt)
+25>Se insertó el elemento.
+26>(0,twr)
+27>LLeno.
+28>Fin.

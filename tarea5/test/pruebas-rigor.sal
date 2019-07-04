@@ -1,0 +1,169 @@
+1>#  Guardar como pruebas-rigor.in.
+2>#  Para generar la salida, ejecutar la siguiente línea desde la terminal: .
+3>#  timeout 4 valgrind -q --leak-check=full ./principal < test/pruebas-rigor.in > test/pruebas-rigor.sal 2>&1.
+4>#  Para generar el .diff, ejecutar la siguiente línea desde la terminal:.
+5>#  diff test/pruebas-rigor.sal test/pruebas-rigor.out > test/pruebas-rigor.diff.
+6>#  Prueba de borrado cuando bucket no está solo (usa 10 de tamanio en el principal.cpp)..
+7>Establecida la asociación.
+8>Establecida la asociación.
+9>Actualizada la asociación.
+10>Actualizada la asociación.
+11>Eliminada la asociación.
+12>No existe asociación.
+13>onceDespues
+14>#  HASH --- Prueba de tamanio de hash (usa 10 de tamanio en el principal.cpp)..
+15>Estructuras reiniciadas.
+16>Establecida la asociación.
+17>Establecida la asociación.
+18>Establecida la asociación.
+19>Establecida la asociación.
+20>Establecida la asociación.
+21>Establecida la asociación.
+22>Establecida la asociación.
+23>Establecida la asociación.
+24>Establecida la asociación.
+25>Establecida la asociación.
+26>LLeno.
+27>El hash está lleno.
+28>LLeno.
+29>Actualizada la asociación.
+30>unoDespues
+31>Eliminada la asociación.
+32>No existe asociación.
+33>No existe asociación.
+34>num10Antes
+35>#  Prueba de liberado correcto de al borrar (usa 10 de tamanio en el principal.cpp)..
+36>Estructuras reiniciadas.
+37>Establecida la asociación.
+38>Establecida la asociación.
+39>Establecida la asociación.
+40>Establecida la asociación.
+41>Establecida la asociación.
+42>Establecida la asociación.
+43>Establecida la asociación.
+44>Establecida la asociación.
+45>Establecida la asociación.
+46>Establecida la asociación.
+47>Actualizada la asociación.
+48>unoDespues
+49>Eliminada la asociación.
+50>Establecida la asociación.
+51>El hash está lleno.
+52>No existe asociación.
+53>num10Antes
+54>num11Antes
+55>No existe asociación.
+56>#  Prueba de llenado repitiendo buckets, actualizado, eliminado y llenado.
+57>Estructuras reiniciadas.
+58>Establecida la asociación.
+59>Establecida la asociación.
+60>Establecida la asociación.
+61>Establecida la asociación.
+62>Establecida la asociación.
+63>Establecida la asociación.
+64>Establecida la asociación.
+65>Establecida la asociación.
+66>Establecida la asociación.
+67>Establecida la asociación.
+68>El hash está lleno.
+69>num1Antes
+70>num2Antes
+71>num3Antes
+72>num4Antes
+73>num5Antes
+74>num11Antes
+75>num12Antes
+76>num13Antes
+77>num14Antes
+78>num15Antes
+79>No existe asociación.
+80>Actualizada la asociación.
+81>Actualizada la asociación.
+82>Actualizada la asociación.
+83>Actualizada la asociación.
+84>El hash está lleno.
+85>num1Antes
+86>num2Antes
+87>num3Antes
+88>num4Despues
+89>num5Despues
+90>num11Despues
+91>num12Despues
+92>num13Antes
+93>num14Antes
+94>num15Antes
+95>No existe asociación.
+96>Eliminada la asociación.
+97>Eliminada la asociación.
+98>Eliminada la asociación.
+99>Eliminada la asociación.
+100>Eliminada la asociación.
+101>Eliminada la asociación.
+102>Eliminada la asociación.
+103>Eliminada la asociación.
+104>Eliminada la asociación.
+105>Eliminada la asociación.
+106>No existe asociación.
+107>Establecida la asociación.
+108>No existe asociación.
+109>No existe asociación.
+110>No existe asociación.
+111>No existe asociación.
+112>No existe asociación.
+113>No existe asociación.
+114>No existe asociación.
+115>No existe asociación.
+116>No existe asociación.
+117>No existe asociación.
+118>deberiaEntrar
+119>Eliminada la asociación.
+120>No existe asociación.
+121>#  HEAP --- Prueba de casos borde de reducir..
+122>Estructuras reiniciadas.
+123>Se insertó el elemento.
+124>Se insertó el elemento.
+125>Se insertó el elemento.
+126>Se insertó el elemento.
+127>Se insertó el elemento.
+128>Se insertó el elemento.
+129>Se insertó el elemento.
+130>Se insertó el elemento.
+131>Se insertó el elemento.
+132>Se redujo el valor.
+133>Se redujo el valor.
+134>Se redujo el valor.
+135>Se redujo el valor.
+136>Ya existe un elemento con la mitad de ese valor.
+137>(0,VALOR10)
+138>#  HEAP --- Prueba de eliminar menor + reducir..
+139>Estructuras reiniciadas.
+140>Se insertó el elemento.
+141>Se insertó el elemento.
+142>Se insertó el elemento.
+143>Se insertó el elemento.
+144>Se insertó el elemento.
+145>Se insertó el elemento.
+146>Se insertó el elemento.
+147>Se insertó el elemento.
+148>Se insertó el elemento.
+149>Eliminado.
+150>(7,VALOR2)
+151>Eliminado.
+152>(8,VALOR4)
+153>Se redujo el valor.
+154>(4,VALOR4)
+155>Eliminado.
+156>(9,VALOR6)
+157>Se redujo el valor.
+158>Se redujo el valor.
+159>Ya existe un elemento con la mitad de ese valor.
+160>Se redujo el valor.
+161>Se redujo el valor.
+162>(4,VALOR6)
+163>Se redujo el valor.
+164>(2,VALOR7)
+165>Eliminado.
+166>(4,VALOR6)
+167>Se redujo el valor.
+168>(4,VALOR6)
+169>Fin.
